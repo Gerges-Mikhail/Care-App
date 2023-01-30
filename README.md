@@ -4,9 +4,12 @@
 -------------
 #### This application can be used for private doctors' clinics or centers specialized in collecting information about patients.
 -------------  
-## Screenshots  
+## Screenshots 
+.inline-block {
+   display: inline-block;
+}
 <img src="assets/Cover.png" width="600" height="300" />
-<br>
+<br class="inline-block">
 <img src="assets/1.png" width="100" height="250" />
 <img src="assets/2.png" width="100" height="250" />
 </br>
