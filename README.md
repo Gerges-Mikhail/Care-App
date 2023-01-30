@@ -14,9 +14,6 @@
 <img src="assets/5.png" width="100" height="250" />
 <img src="assets/6.png" width="100" height="250" />
 <img src="assets/7.png" width="100" height="250" />
-</br>
-<br display: inline-block;>
-
 <img src="assets/8.png" width="100" height="250" />
 <img src="assets/9.png" width="100" height="250" />
 <img src="assets/10.png" width="100" height="250" />
